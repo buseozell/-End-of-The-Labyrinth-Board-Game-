@@ -1,4 +1,6 @@
-![<img align="center" src="bel.png" alt="Title">](<img align="center" src="bel.png" alt="Title">)
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
 In this project, a labyrinth board game called "End of the Labyrinth" was designed.
 
