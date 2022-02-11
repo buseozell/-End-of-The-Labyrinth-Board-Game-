@@ -1,4 +1,4 @@
-<img align="center" src="bel.png" alt="Title">
+![bel](<img align="center" src="bel.png" alt="Title">)
 
 In this project, a labyrinth board game called "End of the Labyrinth" was designed.
 
