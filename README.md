@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="bel.png" />
 </p>
 
 In this project, a labyrinth board game called "End of the Labyrinth" was designed.
