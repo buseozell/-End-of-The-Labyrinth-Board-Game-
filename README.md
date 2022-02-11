@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Title"/>
+  <img src="https://user-images.githubusercontent.com/81514648/153561699-bf39865f-00f1-42e1-afdb-c19efe8bd883.png" alt="Title"/>
 </p>
 
 In this project, a labyrinth board game called "End of the Labyrinth" was designed.
@@ -10,5 +10,6 @@ to four people. Game area is a labyrinth full of monsters, obstacles and loot. A
 The file where I have added the details of the project and the gameplay of the game is also available. </br>
 Below I leave the link of the video of this fun game that we shot and edited while playing, you can check it out. </br>
 https://youtu.be/z0LPUk-vY3I
+
 
 
