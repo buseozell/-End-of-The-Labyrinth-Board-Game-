@@ -1,5 +1,4 @@
-        ![bel](https://user-images.githubusercontent.com/81514648/153559278-4af0b8d7-da12-4774-b180-1e915e183d0a.png)
-
+<img align="center" src="bel.png" alt="Title">
 
 In this project, a labyrinth board game called "End of the Labyrinth" was designed.
 
